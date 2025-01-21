@@ -6,10 +6,10 @@ The projects focus on building robust analytics tools for A/B testing and experi
 ## Projects
 1. MDE (Minimum Detectable Effect) Dashboard
 A comprehensive analytics dashboard built to monitor and analyze cross-device watch time patterns and experiment metrics.
-Key Features:
 
+Key Features:
 ## Real-time metrics monitoring across cross-device experiments
-Statistical inference analysis with a 45-day rolling window
+Statistical inference analysis with a 30-day rolling window
 5 automated metric calculations for experiment tracking
 8 customizable filters for detailed data exploration
 Daily automated data refresh pipeline
