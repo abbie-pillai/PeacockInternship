@@ -10,7 +10,7 @@ Key Features:
 - Real-time metrics monitoring across cross-device experiments
 - Statistical inference analysis with a 30-day rolling window
 - 5 automated metric calculations for experiment tracking
-- 5 customizable filters for detailed data exploration
+- 3 customizable filters for detailed data exploration
 - Daily automated data refresh pipeline
 
 2. Automated Inference Engine
