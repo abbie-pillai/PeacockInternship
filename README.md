@@ -6,41 +6,23 @@ The projects focus on building robust analytics tools for A/B testing and experi
 ## Projects
 1. MDE (Minimum Detectable Effect) Dashboard
 A comprehensive analytics dashboard built to monitor and analyze cross-device watch time patterns and experiment metrics.
-
 Key Features:
-## Real-time metrics monitoring across cross-device experiments
-Statistical inference analysis with a 30-day rolling window
-5 automated metric calculations for experiment tracking
-8 customizable filters for detailed data exploration
-Daily automated data refresh pipeline
-
-## Technologies:
-Google BigQuery for data processing
-Tableau for visualization
-Python for statistical computations
-GCP for cloud infrastructure
-
-## Impact:
-Improved data accessibility by 20%
-Enhanced testing efficiency through automated calculations
-Streamlined decision-making process for stakeholders
+- Real-time metrics monitoring across cross-device experiments
+- Statistical inference analysis with a 30-day rolling window
+- 5 automated metric calculations for experiment tracking
+- 5 customizable filters for detailed data exploration
+- Daily automated data refresh pipeline
 
 2. Automated Inference Engine
 An automated system for processing and analyzing A/B test results using advanced statistical frameworks.
-
 Key Features:
-## Automated statistical inference across multiple test scenarios
-Machine learning models for pattern detection
-Real-time data processing pipeline
-Comprehensive test result analysis
+- Automated statistical inference across multiple test scenarios
+- Machine learning models for pattern detection
+- Real-time data processing pipeline
+- Comprehensive test result analysis
 
 ## Technologies:
 Google Cloud Platform (GCP)
 Python (scikit-learn, pandas, numpy)
 Statistical testing frameworks
 ETL pipelines
-
-## Impact:
-Reduced testing time by 25%
-Increased experiment accuracy by 30%
-Annual cost savings of $300K through automation
